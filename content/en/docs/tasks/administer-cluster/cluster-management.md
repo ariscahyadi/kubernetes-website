@@ -1,17 +1,14 @@
 ---
-reviewers:
-- lavalamp
-- thockin
-title: Cluster Management
+title: Manajemen Klaster
 content_type: concept
 ---
 
 <!-- overview -->
 
-This document describes several topics related to the lifecycle of a cluster: creating a new cluster,
-upgrading your cluster's
-master and worker nodes, performing node maintenance (e.g. kernel upgrades), and upgrading the Kubernetes API version of a
-running cluster.
+Dokumen ini menjelaskan beberapa topik yang terkait dengan siklus hidup sebuah klaster: membuat klaster baru,
+memperbarui Node _control plane_ dan Node pekerja dari klaster kamu,
+melakukan pemeliharaan Node (misalnya pembaruan kernel), dan meningkatkan versi API Kubernetes dari
+klaster yang berjalan.
 
 <!-- body -->
 
